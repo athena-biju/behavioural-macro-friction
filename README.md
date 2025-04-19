@@ -2,6 +2,8 @@
 
 This repository introduces `ψ`, a norm-induced wage suppression parameter representing post-marital labor market frictions unrelated to fertility. We embed ψ into a dynamic Overlapping Generations (OLG) macroeconomic model to simulate growth, welfare, and fiscal implications.
 
+[View macro-model paper (PDF)](docs/macro-model-psi.pdf)
+
 ## Core Contributions
 - Definition and empirical estimation of ψ across countries.
 - Structural integration of ψ into general equilibrium simulations.
