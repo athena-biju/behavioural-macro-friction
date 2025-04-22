@@ -20,3 +20,6 @@ Athena Biju (2025). *The Hidden Friction: Marriage, Gender Norms, and the Macroe
 
 ## License
 MIT License (for code), CC-BY 4.0 (for paper).
+
+## Disclosure
+AI-assisted for select technical implementations. All theoretical and conceptual content by Athena Biju.
