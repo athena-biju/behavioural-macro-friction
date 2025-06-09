@@ -12,7 +12,7 @@ This repository introduces `ψ`, a norm-induced wage suppression parameter repre
 
 ## Repository Structure
 - `/code/`: Jupyter notebooks for empirical and simulation logic.
-- `/data/`: Placeholder for SHP, SOEP, WVS, etc. (access instructions only).
+- `/data/`: Placeholder for PHF, SHP, SOEP, WVS, etc. (access instructions only).
 - `/docs/`: Theoretical notes on embedding ψ into macroeconomic systems.
 
 ## Citation
