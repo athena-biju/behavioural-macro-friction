@@ -14,36 +14,36 @@ This repository introduces `ψ`, a norm-induced wage suppression parameter repre
  - `/docs/`: Theoretical notes on embedding ψ into macroeconomic systems.
  
 ## Setup
-+
-+1. Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html) or Anaconda.
-+2. Create and activate the environment with the `jupyterlab` package:
-+
-+   ```bash
-+   conda create -n macrofriction python=3.11 jupyterlab
-+   conda activate macrofriction
-+   ```
-+3. Verify the environment and JupyterLab installation:
-+
-+   ```bash
-+   conda env list | grep macrofriction
-+   jupyter lab --version
-+   ```
-+
-+## Running the Notebooks
-+
-+Launch JupyterLab:
-+
-+```bash
-+jupyter lab
-+```
-+
-+Run the notebooks sequentially:
-+
-+- `01-macro-model-structure.ipynb` – establishes the baseline model structure.
-+- `02-psi-output-loss-simulation.ipynb` – simulates output losses from ψ.
-+- `03-psi-dynamic-path.ipynb` – traces the dynamic adjustment path.
-+- `04-lfp-welfare-simulation.ipynb` – evaluates labor force and welfare shifts.
-+- `05-policy-simulation-scenarios.ipynb` – explores policy scenarios.
+
+1. Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html) or Anaconda.
+2. Create and activate the environment with the `jupyterlab` package:
+
+   ```bash
+   conda create -n macrofriction python=3.11 jupyterlab
+   conda activate macrofriction
+   ```
+3. Verify the environment and JupyterLab installation:
+
+   ```bash
+   conda env list | grep macrofriction
+   jupyter lab --version
+   ```
+
+## Running the Notebooks
+
+Launch JupyterLab:
+
+```bash
+jupyter lab
+```
+
+Run the notebooks sequentially:
+
+- `01-macro-model-structure.ipynb` – establishes the baseline model structure.
+- `02-psi-output-loss-simulation.ipynb` – simulates output losses from ψ.
+- `03-psi-dynamic-path.ipynb` – traces the dynamic adjustment path.
+- `04-lfp-welfare-simulation.ipynb` – evaluates labor force and welfare shifts.
+- `05-policy-simulation-scenarios.ipynb` – explores policy scenarios.
 
  ## Citation
  Athena Biju (2025). *The Hidden Friction: Marriage, Gender Norms, and the Macroeconomics of Labor Market Divergence.* Jacobs University Bremen.
