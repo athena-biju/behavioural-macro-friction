@@ -53,3 +53,18 @@ Run the notebooks sequentially:
  
  ## Disclosure
  AI-assisted for select technical implementations. All theoretical and conceptual content by Athena Biju.
+
+ ## Development Setup
+ After cloning the repository, create a virtual environment and install the minimal dependencies:
+ 
+ ```bash
+ python3 -m venv .venv
+ source .venv/bin/activate
+ pip install pandas pytest
+ ```
+ 
+ Run the test suite to ensure the environment is correctly configured:
+ 
+ ```bash
+ pytest
+ ```
