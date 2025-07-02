@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+# Editor backups
+*~
+*.swp
+*.swo
